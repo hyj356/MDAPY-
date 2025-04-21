@@ -1,0 +1,8 @@
+{ 
+  "eam_file": "Al_zhou.eam.alloy",  
+  "lattice_type" : "FCC",
+  "lattice_constant": 4.04,
+  "low": 0.9, "high": 1.15, "step": 0.01,
+  "element": "Al",
+  "save_figure": true
+}
